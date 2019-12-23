@@ -1,2 +1,2 @@
-# project23
-training project
+# Training Project 23
+23th GitHub Training Project...
